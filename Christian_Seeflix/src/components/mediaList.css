@@ -1,0 +1,17 @@
+.media-list {
+  margin-bottom: 3rem;
+}
+
+.media-list h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+}
+
+.media-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: flex-start;
+  padding-left: 1rem;
+}
